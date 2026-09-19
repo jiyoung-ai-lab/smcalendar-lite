@@ -1,18 +1,18 @@
-# SMCalendar Lite
+## SMCalendar Lite
 
 Android calendar application developed in Java in 2011.
 
-## Features
+### Features
 
 * Multi-person schedule management
 * Lunar calendar support
 
-## Technology
+### Technology
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-## Screenshots
+### Screenshots
 
 <table>
   <tr>
@@ -24,7 +24,7 @@ Android calendar application developed in Java in 2011.
 </table>
 
 
-## Service Status
+### Service Status
 
 * Service discontinued
 * A separate paid version was also available
